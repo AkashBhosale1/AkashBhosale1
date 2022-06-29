@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Akash Bhosale
+### Hi there 👋, I'm Akash Bhosale
 I’m Akash from India, and I am interested in experiencing new tech around us and want to contribute to them. I enjoy learning languages and frameworks, as well as working in WordPress.looking to collaborate on projects that uplift my skillset. you can reach me via akashbhosale.w@gmail.com
 
 Skills: JAVA/ C,C++,C# / HTML / CSS

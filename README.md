@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
- Hi there 👋, I'm Akash Bhosale
+
+### <div align="left"> Hi there 👋, I'm Akash Bhosale </div>
 
 I’m Akash from India, and I am interested in experiencing new tech around us and want to contribute to them. I enjoy learning languages and frameworks, as well as working in WordPress.looking to collaborate on projects that uplift my skillset. you can reach me via akashbhosale.w@gmail.com
 
@@ -21,8 +22,15 @@ I’m Akash from India, and I am interested in experiencing new tech around us a
 - 💻 I’m currently learning and undergraduate in computer science and engineering  
 - 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Science.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/https://github.com/AkashBhosale1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akash-bhosale-04711620a//)  
+### Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/AkashBhosale1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akash-bhosale-04711620a//" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
 
 <!---

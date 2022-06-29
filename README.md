@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
-###Hi there 👋, I'm Akash Bhosale
+ Hi there 👋, I'm Akash Bhosale
 
 I’m Akash from India, and I am interested in experiencing new tech around us and want to contribute to them. I enjoy learning languages and frameworks, as well as working in WordPress.looking to collaborate on projects that uplift my skillset. you can reach me via akashbhosale.w@gmail.com
 
